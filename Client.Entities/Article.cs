@@ -80,7 +80,7 @@ namespace Client.Entities
         #region Validation
         protected override IValidator GetValidator()
         {
-            return new BlogValidator();
+            return new ArticleValidator();
         }
         #endregion
     }
