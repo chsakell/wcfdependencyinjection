@@ -1,6 +1,6 @@
 # Dependency injection in WCF
 
-Blog post: <a href="https://chsakell.com/2015/07/04/dependency-injection-in-wcf/">Dependency injection in WCF</a>
+Blog post: <a href="http://wp.me/p3mRWu-Ou">Dependency injection in WCF</a>
 
 <h2>Donations</h2>
 For being part of open source projects and documenting my work here and on <a href="https://chsakell.com">chsakell's blog</a> I really do not charge anything. I try to avoid any type of ads also.
