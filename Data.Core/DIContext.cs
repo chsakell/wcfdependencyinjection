@@ -15,7 +15,7 @@ namespace Data.Core
         public DIContext()
             : base("DIContext")
         {
-            Database.SetInitializer<DIContext>(null);
+            Database.SetInitializer<DIContext>(new DbInitializer());
         }
 
         public DbSet<Blog> BlogSet { get; set; }

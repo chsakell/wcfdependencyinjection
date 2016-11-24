@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Configurations\ArticleConfiguration.cs" />
     <Compile Include="Configurations\BlogConfiguration.cs" />
+    <Compile Include="DbInitializer.cs" />
     <Compile Include="DIContext.cs" />
     <Compile Include="Infrastructure\DbFactory.cs" />
     <Compile Include="Infrastructure\Disposable.cs" />
